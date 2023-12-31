@@ -1,0 +1,2 @@
+2023-12-30 00:04:57 - Added static user: IP Address: 192.168.190.11, Customer: static user
+2023-12-30 00:10:02 - Added static user: IP Address: 192.168.190.11, Customer: static user

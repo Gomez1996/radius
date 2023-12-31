@@ -1,0 +1,145 @@
+[29-Dec-2023 13:53:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:53:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:53:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:53:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:53:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:53:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:54:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:54:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:54:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:54:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:54:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:54:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:55:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:55:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:56:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:56:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 13:56:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:25:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:32:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 14:32:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 17:41:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
+[29-Dec-2023 18:30:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in F:\xampp\htdocs\test\system\boot.php:83
+Stack trace:
+#0 F:\xampp\htdocs\test\index.php(22): require_once()
+#1 {main}
+  thrown in F:\xampp\htdocs\test\system\boot.php on line 83
